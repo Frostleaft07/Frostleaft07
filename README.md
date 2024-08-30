@@ -10,4 +10,4 @@
 ![GitHub stats](https://github-readme-stats-frostleaft07s-projects.vercel.app/api?username=Frostleaft07&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats-lac-three.vercel.app/?user=Frostleaft07&theme=dracula)](https://git.io/streak-stats)
 
-![Texas](https://i.redd.it/srfzvzxj69d41.gif)
+![Texas](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/gif/texas.gif)
