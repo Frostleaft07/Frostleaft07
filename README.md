@@ -12,4 +12,6 @@
 
 ![snake](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/output/github-contribution-grid-snake.svg)
 
+![typograssy](https://typograssy.deno.dev/api?text=WELCOME)
+
 ![Texas](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/gif/texas.gif)
