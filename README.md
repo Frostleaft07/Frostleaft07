@@ -1,3 +1,6 @@
+![Closure](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/png/closure.png)
+
+# 👀 View
 ![](https://count.getloli.com/get/@Frostleaft07?theme=rule34)
 
 # 💻 Environment
