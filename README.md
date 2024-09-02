@@ -6,7 +6,7 @@
     <td align="center">
       <h2>About Me</h2>
       <p>👋 Hi, I'm Frostleaft07!</p>
-      <p>Feel free to check out my GitHub repositories and connect with me!</p>
+      <p>may my hail of bullets bring you eternal peace!!</p>
     </td>
   </tr>
 </table>
