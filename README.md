@@ -1,4 +1,17 @@
-![Closure](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/png/closure.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/png/closure.png" alt="Closure">
+    </td>
+    <td align="center">
+      <h2>About Me</h2>
+      <p>👋 Hi, I'm Frostleaft07!</p>
+      <p>Feel free to check out my GitHub repositories and connect with me!</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
 
 # 👀 View
 ![](https://count.getloli.com/get/@Frostleaft07?theme=rule34)
@@ -19,3 +32,5 @@
 ![typograssy](https://typograssy.deno.dev/api?text=WELCOME)
 
 ![Texas](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/gif/texas.gif)
+
+</div>
