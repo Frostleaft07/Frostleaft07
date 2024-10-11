@@ -31,6 +31,6 @@
 
 ![typograssy](https://typograssy.deno.dev/api?text=WELCOME)
 
-![Texas](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/gif/texas.gif)
+![Exu](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/gif/exu.gif)
 
 </div>
