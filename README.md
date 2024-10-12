@@ -22,7 +22,7 @@
 
 # 📱 Devices
 ![Android Q](https://img.shields.io/badge/Android%20Q-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![realme C15](https://img.shields.io/badge/realme%20C15-FFD700?style=flat-square)
+![Realme C15](https://img.shields.io/badge/realme%20C15-FFD700?style=flat-square)
 
 ![GitHub stats](https://github-readme-stats-frostleaft07s-projects.vercel.app/api?username=Frostleaft07&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats-lac-three.vercel.app/?user=Frostleaft07&theme=dracula)](https://git.io/streak-stats)
