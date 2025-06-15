@@ -18,7 +18,7 @@
 
 # 💻 Environment
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Gentoo](https://img.shields.io/badge/Gentoo%202024%2e08%2e14-800080?style=flat-square&logo=gentoo&logoColor=ffffff)
+![Zorin](https://img.shields.io/badge/Zorin%20OS-17.3-0CC1F3?style=flat-square&logo=zorin&logoColor=ffffff)
 
 # 📱 Devices
 ![Android Q](https://img.shields.io/badge/Android%20Q-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
