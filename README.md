@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/png/closure.png" alt="Closure">
+      <img src="https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/png/exu_alter.png" alt="Closure">
     </td>
     <td align="center">
       <h2>About Me</h2>
