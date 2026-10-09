@@ -29,7 +29,7 @@
 
 ![snake](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/output/github-contribution-grid-snake.svg)
 
-![typograssy](https://typograssy.deno.dev/api?text=WELCOME)
+![typograssy](https://typograssy.kawarimidoll.deno.net/api?scheme=pink&text=WELCOME%20:3)
 
 ![cute](https://raw.githubusercontent.com/Frostleaft07/Frostleaft07/master/gif/cute.gif)
 
